@@ -1,0 +1,8 @@
+﻿  Functions.cpp
+C:\Users\keago\OneDrive\Documents\UMKC\CS303\Assignment 1\Assignment 1\Functions.cpp(86,35): warning C4101: 'f': unreferenced local variable
+C:\Users\keago\OneDrive\Documents\UMKC\CS303\Assignment 1\Assignment 1\Functions.cpp(93,27): warning C4101: 'ex': unreferenced local variable
+C:\Users\keago\OneDrive\Documents\UMKC\CS303\Assignment 1\Assignment 1\Functions.cpp(129,39): warning C4101: 'f': unreferenced local variable
+C:\Users\keago\OneDrive\Documents\UMKC\CS303\Assignment 1\Assignment 1\Functions.cpp(136,31): warning C4101: 'ex': unreferenced local variable
+C:\Users\keago\OneDrive\Documents\UMKC\CS303\Assignment 1\Assignment 1\Functions.cpp(183,35): warning C4101: 'f': unreferenced local variable
+C:\Users\keago\OneDrive\Documents\UMKC\CS303\Assignment 1\Assignment 1\Functions.cpp(187,27): warning C4101: 'ex': unreferenced local variable
+  Assignment 1.vcxproj -> C:\Users\keago\OneDrive\Documents\UMKC\CS303\Assignment 1\x64\Debug\Assignment 1.exe
